@@ -9,7 +9,7 @@
   "lat": 48.0736,
   "lng": 6.8786,
   "hero": "photos/exterieur.jpg",
-  "bookingEndpoint": "",
+  "bookingEndpoint": "https://script.google.com/macros/s/AKfycbxGA8w7xKBikrgi0dmDf0BORkA7leJ6ts-j0eOxXHDw0t08dllzXzJbikJlJQgIGg9iIA/exec",
   "maxGuests": 4
  },
  "langs": [
