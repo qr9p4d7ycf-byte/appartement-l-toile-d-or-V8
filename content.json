@@ -17,7 +17,7 @@
   "en",
   "de"
  ],
- "defaultTheme": "or",
+ "defaultTheme": "glace",
  "sections": [
   "hero",
   "cinema",
@@ -783,5 +783,7 @@
    ],
    "url": ""
   }
- ]
+ ],
+ "themeAuto": "on",
+ "themeSeasons": []
 }
