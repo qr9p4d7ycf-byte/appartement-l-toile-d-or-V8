@@ -601,18 +601,18 @@
   }
  ],
  "pricing": {
-  "base": 0,
+  "base": "100",
   "minNights": 2,
+  "kwhPrice": 0.25,
+  "kwhPerNight": "10",
+  "cleaningFee": "10",
   "seasons": [],
   "discounts": [],
   "note": [
    "",
    "",
    ""
-  ],
-  "kwhPrice": 0.25,
-  "kwhPerNight": 0,
-  "cleaningFee": 0
+  ]
  },
  "cal": {},
  "faq": [
