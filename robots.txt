@@ -1,0 +1,4 @@
+# Les robots et assistants IA peuvent lire ce site.
+# Ils ne sont pas autorisés à envoyer de demande de réservation (voir llms.txt).
+User-agent: *
+Allow: /
