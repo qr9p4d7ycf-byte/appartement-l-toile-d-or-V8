@@ -1,7 +1,7 @@
 /* Service de réservation (Google Apps Script, gratuit).
    Reçoit les demandes du site, vous les envoie par e-mail, les range dans la feuille « Demandes »
    et permet à la page admin de les lire, de les accepter ou de les refuser. */
-const OWNER_EMAIL = 'contact@exemple.fr';              // À MODIFIER : l'e-mail qui reçoit les demandes
+const OWNER_EMAIL = 'samuellimaux@gmail.com';              // À MODIFIER : l'e-mail qui reçoit les demandes
 const ADMIN_KEY   = 'behwEp-wompek-6rihsyoui';    // À MODIFIER : 12 caractères minimum, gardez-le secret
 const SITE_NAME   = 'Chalet l’étoile d’or';
 const SHEET_NAME  = 'Demandes';
